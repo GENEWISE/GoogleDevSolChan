@@ -1,6 +1,6 @@
 # GENEWISE
 
-GENEWISE is an AI-powered web application that predicts rare diseases based on gene variant data. Designed for clinicians, geneticists, and researchers, GENEWISE leverages advanced machine learning and retrieval-augmented generation (RAG) models to analyze genomic data and provide accurate disease predictions, variant classifications, and actionable insights.
+GENEWISE is an AI-powered web application that predicts rare diseases based on gene variant data. Designed for clinicians, geneticists, and researchers, GENEWISE leverages advanced machine learning and Gen Ai models to analyze genomic data and provide accurate disease predictions, variant classifications, and actionable insights.
 
 ## 🚀 Features
 
@@ -20,14 +20,14 @@ GENEWISE is an AI-powered web application that predicts rare diseases based on g
   - Custom LLM (Large Language Model) for gene interpretation
   - Gene variant classifier
 - **Database:** 
-  - Relational DB (e.g., PostgreSQL)
+  - Non Relational DB (e.g., MongoDB Atlas cloud)
 - **Deployment:** Docker, CI/CD pipelines
 
 ## 🧪 How It Works
 
 1. **Data Input:** Clinicians upload or input patient-specific genetic variant data.
 2. **Variant Classification:** The system uses AI to classify variants based on known patterns and annotations.
-3. **Disease Prediction:** A custom-trained LLM with a connected vector knowledge base predicts potential rare diseases.
+3. **Disease Prediction:** A custom-trained LLM with a connected knowledge base predicts potential rare diseases and API.
 4. **Recommendation Output:** Users receive a detailed report with predicted diseases, variant interpretation, and suggested clinical actions.
 
 ## 🛠️ Setup & Installation
