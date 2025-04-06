@@ -14,14 +14,12 @@ GENEWISE is an AI-powered web application that predicts rare diseases based on g
 
 ## 🧩 Tech Stack
 
-- **Frontend:** React, TailwindCSS
+- **Frontend:** React
 - **Backend:** Python, FastAPI
 - **AI/ML:** 
   - Custom LLM (Large Language Model) for gene interpretation
-  - Retrieval-Augmented Generation (RAG) for knowledge-based responses
   - Gene variant classifier
 - **Database:** 
-  - Vector DB (e.g., Pinecone, FAISS)
   - Relational DB (e.g., PostgreSQL)
 - **Deployment:** Docker, CI/CD pipelines
 
@@ -37,7 +35,6 @@ GENEWISE is an AI-powered web application that predicts rare diseases based on g
 ### Prerequisites
 
 - Python 3.9+
-- Node.js & npm
 - Docker (optional, for containerized setup)
 
 ### Backend Setup
