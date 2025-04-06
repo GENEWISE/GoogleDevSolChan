@@ -6,8 +6,8 @@ GENEWISE is an AI-powered web application that predicts rare diseases based on g
 
 - 🧬 Input raw patient gene data (e.g., VCF, gene variants)
 - 🤖 AI-powered gene variant classification
-- 🧠 RAG-based disease prediction using custom knowledge base
-- 📊 Vector database integration for efficient data retrieval
+- 🧠 Gen-Ai disease prediction using custom knowledge base
+- 📊 Knowledge database integration for efficient data retrieval
 - 🧾 Clinically-relevant recommendations based on analysis
 - 🔍 Transparent and interpretable AI decisions
 - 💻 User-friendly web interface for ease of use
