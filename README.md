@@ -50,3 +50,6 @@ uvicorn app.main:app --reload
 
 ### FrontEnd Demo
 https://genewise.github.io/GoogleDevSolChan/
+
+###ML Model
+https://genewiseml-ngqhbv9g3ikmntruqeaztn.streamlit.app/
